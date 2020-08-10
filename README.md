@@ -1,1 +1,1 @@
-[![Enis's github stats](https://github-readme-stats.vercel.app/api?username=earik87&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Enis's github stats](https://github-readme-stats.vercel.app/api?username=earik87&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
